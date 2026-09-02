@@ -14,39 +14,43 @@ SIH_Project/
 ├── .editorconfig
 │
 ├── Project-1_Landslide-Monitoring-System/
-│   ├── Member-1/
-│   ├── Member-2/
-│   ├── Member-3/
-│   ├── Member-4/
-│   └── Member-5/
+│   ├── Hasini/
+│   ├── Navaneeth/
+│   ├── Ratik/
+│   ├── Sarvesh/
+│   ├── Swapnil/
+│   └── Satyam/
 │
 ├── Project-2_Aero-Piston-Engine-Digital-Twin/
-│   ├── Member-1/
-│   ├── Member-2/
-│   ├── Member-3/
-│   ├── Member-4/
-│   └── Member-5/
+│   ├── Hasini/
+│   ├── Navaneeth/
+│   ├── Ratik/
+│   ├── Sarvesh/
+│   ├── Swapnil/
+│   └── Satyam/
 │
 ├── Project-3_Dam-Break-Inundation-Modelling/
-│   ├── Member-1/
-│   ├── Member-2/
-│   ├── Member-3/
-│   ├── Member-4/
-│   └── Member-5/
+│   ├── Hasini/
+│   ├── Navaneeth/
+│   ├── Ratik/
+│   ├── Sarvesh/
+│   ├── Swapnil/
+│   └── Satyam/
 │
 ├── Project-4_Early-Detection-Osteoarthritis/
-│   ├── Member-1/
-│   ├── Member-2/
-│   ├── Member-3/
-│   ├── Member-4/
-│   └── Member-5/
+│   ├── Hasini/
+│   ├── Navaneeth/
+│   ├── Ratik/
+│   ├── Sarvesh/
+│   ├── Swapnil/
+│   └── Satyam/
 │
 └── Project-5_Mine-Vehicles-Fog-Low-Visibility/
-    ├── Member-1/
-    ├── Member-2/
-    ├── Member-3/
-    ├── Member-4/
-    └── Member-5/
+    ├── Hasini/
+    ├── Navaneeth/
+    ├── Ratik/
+    ├── Sarvesh/
+    └── Satyam/
 ```
 
 ---
@@ -111,11 +115,11 @@ git checkout -b member1-day1
 ### 4. Work Exclusively Inside Your Assigned Folder
 If you are Member 1 working on Project 1, all your code and notes go inside:
 ```text
-Project-1_Landslide-Monitoring-System/Member-1/
+Project-1_Landslide-Monitoring-System/Hasini/
 ```
 You can structure your folder as needed:
 ```text
-Member-1/
+Hasini/
 ├── README.md
 ├── src/
 ├── models/
