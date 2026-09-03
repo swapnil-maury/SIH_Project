@@ -1,0 +1,8 @@
+Category,Dataset,Source,Data Available,Use in Project,Status
+Core Imaging,OAI Knee X-Ray + KL Grade,Osteoarthritis Initiative (OAI) - NIH/NIMH Data Archive,Bilateral knee radiographs; knee X-ray semi-quantitative scores/KL-related grading; image-analysis data,Primary imaging reference for OA detection and severity/progression,Verified
+Clinical Outcomes,OAI KOOS/WOMAC,Osteoarthritis Initiative (OAI) - NIH/NIMH Data Archive,WOMAC/KOOS pain; symptoms; physical function; related clinical outcomes,Clinical symptoms and severity labels,Verified
+Demographics/Risk Factors,OAI Demographics and Medical History,Osteoarthritis Initiative (OAI) - NIH/NIMH Data Archive,Age; sex; BMI; medical history; lifestyle; family/risk-factor variables,Patient context and risk-factor analysis,Verified
+Physical Function,OAI Physical Function,Osteoarthritis Initiative (OAI) - NIH/NIMH Data Archive,20-meter walk; chair stand; isometric strength and related physical-function measures,Objective functional assessment for early/progressive OA analysis,Verified
+Movement/Activity,OAI Walking Accelerometry,Osteoarthritis Initiative (OAI) - NIH/NIMH Data Archive,Walking accelerometry summary and related activity measures,Objective physical-activity and movement features,Verified
+VAG,VAG-OA Dataset,Published VAG-OA research dataset,813 single-channel VAG signals from normal and abnormal knees; deterioration grades reported in published research,Non-invasive vibration-based OA detection and grading,Research dataset; raw-data access not verified
+Thermal Imaging,OSTHERSIT,Sethu Institute of Technology,Thermal knee images with OA annotations; dataset contains 30 cases,Non-invasive thermal-image-based OA analysis,Verified source; access requires license/institutional request
