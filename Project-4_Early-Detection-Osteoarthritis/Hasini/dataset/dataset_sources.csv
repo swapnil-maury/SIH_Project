@@ -1,0 +1,9 @@
+Category,Dataset,Source,Data Available,Use in Project,Status
+Knee X-ray + KL Grade,Osteoarthritis Initiative (OAI),NIH/NIMH Data Archive,Knee radiographs; KL/semi-quantitative scores,Early OA detection,Verified
+Clinical WOMAC/KOOS,Osteoarthritis Initiative (OAI),NIH/NIMH Data Archive,WOMAC/KOOS clinical outcomes,Symptoms and severity prediction,Verified
+Demographics,Osteoarthritis Initiative (OAI),NIH/NIMH Data Archive,Age; sex; demographic variables,Risk-factor analysis,Verified
+ROM/Kinematics,Osteoarthritis Initiative (OAI),NIH/NIMH Data Archive,Movement/physical-function measurements,Functional assessment,To verify
+Gait/IMU,Osteoarthritis Initiative (OAI),NIH/NIMH Data Archive,Gait/accelerometer/gyroscope data,Movement-based detection,To verify
+VAG,To be verified,Official source required,Joint acoustic vibration signals,Early OA detection,Pending
+Thermal Imaging,To be verified,Official source required,Infrared thermal maps,Inflammation-related features,Pending
+Regional Demographic/Occupational,To be verified,Official source required,Regional demographic and occupational variables,Risk-factor analysis,Pending 
