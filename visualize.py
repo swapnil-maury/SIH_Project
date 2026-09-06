@@ -19,7 +19,7 @@ with rasterio.open('srtm_30m_1x1.tif') as src:
     
     # Read the first band (layer) of the image into a 2D NumPy array
     elevation_matrix = src.read(1)
-    
+
     # 1. Inspecting the Grid Shape
     print("--- Grid Information ---")
     print(f"Total Rows and Columns: {elevation_matrix.shape}")
