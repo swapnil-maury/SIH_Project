@@ -1,15 +1,15 @@
-# import rasterio
-# from rasterio.plot import show
-# import matplotlib.pyplot as plt
+import rasterio
+from rasterio.plot import show
+import matplotlib.pyplot as plt
 
-# # Open your downloaded SRTM GeoTIFF file
-# with rasterio.open('srtm_30m_1x1.tif') as src:
-#     fig, ax = plt.subplots(figsize=(10, 10))
-#     # Render using a terrain colormap
-#     show(src, ax=ax, title="SRTM 30m Elevation Grid", cmap="terrain")
-#     plt.xlabel("Longitude")
-#     plt.ylabel("Latitude")
-#     plt.show()
+# Open your downloaded SRTM GeoTIFF file
+with rasterio.open('srtm_30m_1x1.tif') as src:
+    fig, ax = plt.subplots(figsize=(10, 10))
+    # Render using a terrain colormap
+    show(src, ax=ax, title="SRTM 30m Elevation Grid", cmap="terrain")
+    plt.xlabel("Longitude")
+    plt.ylabel("Latitude")
+    plt.show()
 
 
 import rasterio
